@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="23.1.1" >
+        <source path="/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

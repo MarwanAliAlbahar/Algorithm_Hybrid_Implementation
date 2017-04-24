@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="blue_color">#3498db</color>
+    <color name="ligh_blue">#b6c9e3</color>
+    <color name="orange">#eb4600</color>
+    <color name="red_orange">#e74c3c</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about_desc">Sultan Rooms is fastest growing premium budget hotel chain booking service. Duis quis risus a nunc ultricies varius. Aenean aliquam pellentesque magna consectetur hendrerit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc id est ac nulla venenatis luctus vulputate sit amet libero.</string>
+    <string name="app_name">Sultan Booking Rooms</string>
+    <string name="contact">REACH US</string>
+    <string name="desc1">The rooms of the hotel are well-appointed and features simplicity at its best. The various types of rooms are standard A/c rooms, deluxe A/c rooms, deluxe non A/c rooms and standard non A/c rooms. The in-room amenities include telephone and in-room menu.</string>
+    <string name="desc2">Hotel Hyderabad Heights is located at Masab Tank X road. Nearby places of tourists attraction are Lotus Pond (approx. 5km) and Birla Temple (approx. 3km).</string>
+    <string name="desc3">Hotel Heights provides unparallel services and strive its best to cater the needs of patrons. Guests are ensured absolute convenience with a gamut of essential services like 24 hour room service, parking, travel desk, 24-hour security, 24-hour front desk and doctor on call. </string>
+    <string name="location1">2 bed room</string>
+    <string name="location2">1 bed room</string>
+    <string name="location3">Single bed room</string>
+    <string name="our_services">OUR SERVICES</string>
+    <string name="place1">Newyork</string>
+    <string name="place2">Hyderabad</string>
+    <string name="place3">Spain</string>
+    <string name="price1">$70/per Night</string>
+    <string name="price2">$165/per 2 Night</string>
+    <string name="price3">$120/per Night </string>
+    <string name="service_desc">Sultan Rooms is fastest growing premium budget hotel rooms booking service. We have created friendly, affordable, secure and reliable rooms which are packed with all comforts. The cities may vary, but your experience with us will be the same. And that’s a promise! Ideal for corporates on the go, travellers and well, whoever who needs a safe and secure place to be. Unlike most others, sultan is just a call away.</string>
+    <!-- From: file:/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

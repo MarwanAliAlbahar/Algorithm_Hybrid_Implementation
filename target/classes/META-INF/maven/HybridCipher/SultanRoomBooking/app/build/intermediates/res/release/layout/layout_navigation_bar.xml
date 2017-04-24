@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_layout1"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/red_orange"
+    android:orientation="horizontal"
+    android:paddingBottom="2dp"
+    android:paddingTop="2dp" >
+
+    <TextView
+        android:id="@+id/reach_us_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="right"
+        android:padding="5dp"
+        android:text="Reach Us"
+        android:textColor="@color/blue_color"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/reach_us_text"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="About Us"
+        android:textColor="@color/blue_color"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ourservices_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/info_text"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="Our Services"
+        android:textColor="@color/blue_color"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/home_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/ourservices_text"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="Home"
+        android:textColor="@color/blue_color"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+    
+    
+
+   
+
+</RelativeLayout><!-- From: file:/Users/marwanalbahar/Desktop/HybridCipher/target/classes/META-INF/maven/HybridCipher/SultanRoomBooking/app/src/main/res/layout/layout_navigation_bar.xml -->
